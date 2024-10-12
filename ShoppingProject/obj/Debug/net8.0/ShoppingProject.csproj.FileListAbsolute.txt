@@ -1,0 +1,14 @@
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/bin/Debug/net8.0/ShoppingProject
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/bin/Debug/net8.0/ShoppingProject.deps.json
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/bin/Debug/net8.0/ShoppingProject.runtimeconfig.json
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/bin/Debug/net8.0/ShoppingProject.dll
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/bin/Debug/net8.0/ShoppingProject.pdb
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/obj/Debug/net8.0/ShoppingProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/obj/Debug/net8.0/ShoppingProject.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/obj/Debug/net8.0/ShoppingProject.AssemblyInfo.cs
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/obj/Debug/net8.0/ShoppingProject.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/obj/Debug/net8.0/ShoppingProject.dll
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/obj/Debug/net8.0/refint/ShoppingProject.dll
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/obj/Debug/net8.0/ShoppingProject.pdb
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/obj/Debug/net8.0/ShoppingProject.genruntimeconfig.cache
+/Users/medhat/Developer/Console Application/ShoppingProject/ShoppingProject/obj/Debug/net8.0/ref/ShoppingProject.dll
